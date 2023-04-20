@@ -9,6 +9,9 @@ module.exports = {
       backgroundImage: {
         'hero': "url('/imgs/bg.png')",
       },
+      fontFamily: {
+        'sedgwick': ['Sedgwick Ave Display', 'cursive'],
+      }
     },
     
   },

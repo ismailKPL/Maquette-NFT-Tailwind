@@ -1,13 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
-.h1test {
-    font-family: 'Sedgwick Ave Display', cursive;
-}
-
-.headertitre {
-    font-family: 'Sedgwick Ave Display', cursive;
-
-}
