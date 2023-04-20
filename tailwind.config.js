@@ -6,6 +6,9 @@ module.exports = {
       height: {
         'vh': '85vh', // définit une hauteur maximale de 85vh
       },
+      backgroundImage: {
+        'hero': "url('/imgs/bg.png')",
+      },
     },
     
   },
